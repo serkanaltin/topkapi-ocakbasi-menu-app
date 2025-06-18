@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a6a47299-3b77-493b-ab7e-65a6d208c7aa)# 📱 Topkapı Ocakbaşı Restoran Sipariş & Menü Mobil Uygulaması
+📱 Topkapı Ocakbaşı Restoran Sipariş & Menü Mobil Uygulaması
 
 **MIT App Inventor** ile geliştirilmiş bu mobil uygulama, restoran müşterilerinin dijital menüye erişmesini, sipariş oluşturmasını ve geçmiş siparişlerini görüntülemesini sağlar. Uygulama, geleneksel restoran süreçlerini dijitalleştirerek hem müşteri memnuniyetini hem de işletme verimliliğini artırmayı hedefler.
 
@@ -80,6 +80,11 @@ Testlerde şu işlevlerin başarıyla çalıştığı gözlemlenmiştir:
 Bu proje sadece **eğitim** ve **akademik** amaçlarla paylaşılmıştır. Ticari kullanımı yasaktır. Tüm hakları saklıdır.
 
 ---
+
+## 📸 Ekran Görüntüleri
+![image](https://github.com/user-attachments/assets/7c4e5e5d-6b43-4477-a4f2-15e1bfb0b265)
+![image](https://github.com/user-attachments/assets/cd9cfe03-4341-45bd-acdd-177b876206fc)
+![image](https://github.com/user-attachments/assets/9cf1cda5-2d97-4327-9ccd-8ae4df857596)
 
 
 
